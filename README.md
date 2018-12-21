@@ -10,11 +10,9 @@ Generate processed data per SHA/brick:
 
 -data_input folder contains input files from which one can modify the input
 
---COLUMN_NAMES: rename feature names in output files
-
---FACTORS_EXCLUDED: exclude features in all output files
-
---FACTORS FOR MODEL: edit features to be included as the model input
+a) COLUMN_NAMES: rename feature names in output files
+b) FACTORS_EXCLUDED: exclude features in all output files
+c) FACTORS FOR MODEL: edit features to be included as the model input
  
 
 
