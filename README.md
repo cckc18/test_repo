@@ -9,11 +9,11 @@ Generate processed data per SHA/brick:
 
 3) run jupyter notebook 'Maps.ipynb' to generate Voronoi maps
 
-data_raw_csv folder stores raw data in CSV format
+-data_raw_csv folder stores raw data in CSV format
 
-data_processed folder contains output files
+-data_processed folder contains output files
 
-data_input folder contains input files from which one can modify the input
+-data_input folder contains input files from which one can modify the input:
 
 a) COLUMN_NAMES: rename feature names in output files
 
