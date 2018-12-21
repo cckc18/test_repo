@@ -1,7 +1,7 @@
 ## Instruction for generating EDA data
 
 
-Generate processed data per SHA/brick:\
+Generate processed data per SHA/brick: \
 
 1) run the python script 'main.py' to generate preliminary input file in data_input folder use '-h' to see detailed options\
 
